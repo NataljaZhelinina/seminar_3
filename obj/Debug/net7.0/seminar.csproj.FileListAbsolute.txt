@@ -1,5 +1,0 @@
-C:\Users\Nataliya\Documents\seminar 3\1\seminar\obj\Debug\net7.0\seminar.csproj.AssemblyReference.cache
-C:\Users\Nataliya\Documents\seminar 3\1\seminar\obj\Debug\net7.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nataliya\Documents\seminar 3\1\seminar\obj\Debug\net7.0\seminar.AssemblyInfoInputs.cache
-C:\Users\Nataliya\Documents\seminar 3\1\seminar\obj\Debug\net7.0\seminar.AssemblyInfo.cs
-C:\Users\Nataliya\Documents\seminar 3\1\seminar\obj\Debug\net7.0\seminar.csproj.CoreCompileInputs.cache
